@@ -1,0 +1,68 @@
+
+div #viewport {
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+li a {
+	color: #777;
+}
+#viewport {
+	min-height: 100%;
+	position: relative;
+	width: 100%;
+}
+body {
+	font-size: small;
+}
+.blank {
+	border: medium none;
+	height: auto;
+	width: 100px;
+	position: absolute;
+	background: transparent;
+}
+img {
+	padding-top: 109px;
+	padding-bottom: 25px;
+	height: 92px
+	width 272px;
+}
+input {
+	margin-bottom: 20px;
+
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.nav ul li {
+	display: block;
+	float: right;
+	padding: 8px;
+}
+.foot {
+	padding:13px 27px 0px 0px;
+	width: 100%;
+	position: fixed;
+	bottom: 0px;
+	height: 40px;
+	background-color: #f2f2f2;
+	text-decoration: none;
+}
+
+.foot li {
+	float: left;
+}
+
+.foot li a {
+	
+	padding: 14px 16px;
+	text-decoration: none;
+
+}
+
+
